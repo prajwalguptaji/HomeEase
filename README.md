@@ -1,14 +1,10 @@
 # Household Services Application
 
-## By: Mayank Kumar Poddar
+## By: Prajwal Gupta
 
-### 23f3004197 | Modern Application Development – I | IIT Madras
+
 
 ---
-
-## Project Overview
-
-This project is part of the **Modern Application Development - I** course at **IIT Madras** and focuses on building a multi-user web application for **household services**. Verified professionals can provide essential home services such as **Electrical, Carpentry, Plumbing, Appliance Repair**, etc., to customers. 
 
 ## Screenshots
 
